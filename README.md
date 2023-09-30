@@ -1,1 +1,1 @@
-# linear_regression_practice
+# Linear Regression Practice
